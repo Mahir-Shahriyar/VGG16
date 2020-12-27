@@ -1,3 +1,3 @@
 # VGG16 
 
-please run this code at Colab 
+please run this code at google Colab 
